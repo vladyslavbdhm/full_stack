@@ -1,2 +1,2 @@
-# full_stack
-My full stack dev repo for #YoProgramo program 
+# front_end
+My front_end dev repo for #YoProgramo program 
